@@ -33,7 +33,7 @@
     <form>
       <input type="text" placeholder="Your Name" required />
       <input type="email" placeholder="Your Email" required />
-      <button type="submit">Send</button>
+      <button type="submit"></button>
     </form>
   </section>
 
